@@ -1,5 +1,5 @@
-TFG_Patrones_Ontologias
-Python
+TFG_Patrones_Ontologias_v2
+
 
 El diseño y desarrollo de ontologías es un proceso complejo incluso para los ingenieros de ontologías, plagado de inconvenientes y dificultades. La problemática asociada a este proceso es inevitable pero también es atenuable, con el fin de mitigar estas dificultades se recomienda la reutilización de ontologías ya definidas, pero no siempre es posible y aun siendo posible tampoco es trivial.
 
